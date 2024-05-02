@@ -1,0 +1,4 @@
+Theoretical best
+
+julia> 0.5*nc*nc*ma*9 / 16 / 5.2e9
+0.0003899230979567307
